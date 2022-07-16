@@ -12,6 +12,10 @@ This is a list of some my projects. Please keep checking back as I am adding mor
   - Investigated a marketing campaign's A/B test results with bootstrapping and non-parametric ANOVA techniques due to non-normal distributions.
 <br>
 
+- <a href="https://github.com/joe-bryan/logistic-regression-airline-marginal-effects">The marginal effects on Airline Passenger Satisfaction</a> - Python: Pandas, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Numpy
+  - Conducted a marginal effect analysis on how the features increase or decrease the likelihood of satisfaction.
+ <br>
+ 
 - <a href="https://github.com/joe-bryan/tx-counties-map">Interactive Texas Counties Map</a> - Python: Pandas, NumPy, Bokeh, Holoviews, Matplotlib
   - Programmed an interactive map of Texas counties using Python with a hover tool that displays the metro area's unemployment rate, the metro name, the county name, and the labor force.
 <br>
@@ -23,10 +27,6 @@ This is a list of some my projects. Please keep checking back as I am adding mor
 - <a href="https://github.com/joe-bryan/toyota-lexus-sales">Toyota and Lexus Monthly Sales Analysis</a> - Python (Pandas, NumPy, Matplotlib), Tableau
   - Imported sales data, cleaned, prepared, and manipulated the data using Python code, and exported the data as Excel sheets to create Tableau visualizations and story.
 <br>
-
-- <a href="https://github.com/joe-bryan/logistic-regression-airline-marginal-effects">The marginal effects on Airline Passenger Satisfaction</a> - Python: Pandas, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Numpy
-  - Conducted a marginal effect analysis on how the features increase or decrease the likelihood of satisfaction.
- <br>
 
 - <a href="https://github.com/joe-bryan/toyota-lexus-sales">GitHub History of Scala</a> - Python: Pandas
   - Researched the viability of Scala by viewing pull requests on a monthly basis and further focused on outliers.
