@@ -24,6 +24,10 @@ This is a list of some my projects. Please keep checking back as I am adding mor
   - Imported sales data, cleaned, prepared, and manipulated the data using Python code, and exported the data as Excel sheets to create Tableau visualizations and story.
 <br>
 
+- <a href="https://github.com/joe-bryan/logistic-regression-airline-marginal-effects">The marginal effects on Airline Passenger Satisfaction</a> - Python: Pandas, Statsmodels, Scikit-learn, Matplotlib, Seaborn, Numpy
+  - Conducted a marginal effect analysis on how the features increase or decrease the likelihood of satisfaction.
+ <br>
+
 - <a href="https://github.com/joe-bryan/toyota-lexus-sales">GitHub History of Scala</a> - Python: Pandas
   - Researched the viability of Scala by viewing pull requests on a monthly basis and further focused on outliers.
 <br>
