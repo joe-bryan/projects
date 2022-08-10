@@ -44,17 +44,3 @@ This is a list of some my projects. Please keep checking back as I am adding mor
 <img width="335" alt="snip1" src="https://user-images.githubusercontent.com/101160575/179427868-f1861db0-f69c-4363-93d8-c5aca86a5959.png">
 <img width="367" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179427882-8cc737f6-45d8-4711-aa04-60cfbb7cf073.png">
 <img width="177" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179427887-03afd9d8-6d05-46ce-831b-a0e14b7c0dc5.png">
-
-
-- <a href="https://github.com/joe-bryan/toyota-lexus-sales">GitHub History of Scala</a> - Python: Pandas
-  - Researched the viability of Scala by viewing pull requests on a monthly basis and further focused on outliers.
-<br>
-<img width="526" alt="pullreq_barchart" src="https://user-images.githubusercontent.com/101160575/179427936-65d3aceb-2470-49c1-87a5-36b7b26492cb.png">
-<img width="329" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179427942-bde93ed1-61ff-4381-8166-4ff26aa4aa97.png">
-<img width="328" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179427948-3c24749d-244f-41b2-861c-a7b977248e8b.png">
-
-- <a href="https://github.com/joe-bryan/netflix-movie-lengths-decreasing">Are Netflix movies decreasing in duration?</a> - Python: Pandas, Matplotlib
-  - Conducted EDA to determine if Netflix movie lengths have been decreasing in the last couple of years.
-<img width="316" alt="snip1" src="https://user-images.githubusercontent.com/101160575/179428027-3f2ea620-e349-4248-b965-2fddd5bd2b5f.png">
-<img width="571" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179428028-cd2f0634-4a3b-42b9-82c5-088643900b3e.png">
-<img width="644" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179428032-96031c35-a77c-4e2d-b171-0f9018af8197.png">
