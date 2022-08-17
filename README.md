@@ -30,14 +30,6 @@ This is a list of some my projects. Please keep checking back as I am adding mor
 <br>
 <img width="526" alt="tx_county_map_snippet" src="https://user-images.githubusercontent.com/101160575/179427625-f0c0af4c-3d9f-44a4-8e64-7734702829d3.png">
 
-- <a href="https://github.com/joe-bryan/ML-are-you-approved-creditcard">Credit Cards: Accepted or Rejected?</a> - Python: Pandas, Sklearn, NumPy, Matplotlib, Seaborn
-  - Used an ML model to predict if an individual's application for a credit card will be accepted.
-<br>
-<img width="644" alt="snip1" src="https://user-images.githubusercontent.com/101160575/179427759-89b9fcfa-8291-4aed-bc07-86980f880afb.png">
-<img width="334" alt="snip2" src="https://user-images.githubusercontent.com/101160575/179427763-8de304f7-0911-47b4-b9b3-1b36637da568.png">
-<img width="292" alt="snip3" src="https://user-images.githubusercontent.com/101160575/179427766-469caa47-6cad-4033-8134-696749df1396.png">
-<img width="305" alt="snip4" src="https://user-images.githubusercontent.com/101160575/179427767-2553312c-bc1a-41b3-a843-73b51a9ef38c.png">
-
 - <a href="https://github.com/joe-bryan/toyota-lexus-sales">Toyota and Lexus Monthly Sales Analysis</a> - Python (Pandas, NumPy, Matplotlib), Tableau
   - Imported sales data, cleaned, prepared, and manipulated the data using Python code, and exported the data as Excel sheets to create Tableau visualizations and story.
 <br>
