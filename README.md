@@ -1,5 +1,5 @@
 ## Hello!
-This is a list of some my projects. Please keep checking back as I am adding more as on a weekly basis. 
+This is a list of some my projects. Please keep check soon as I will be adding a variety of projects. 
 
 ---
 
