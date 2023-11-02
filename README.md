@@ -7,6 +7,8 @@ This is a list of some my projects. Please keep check soon as I will be adding a
 - <a href="https://github.com/joe-bryan/streaming-toyota-listings/assets/101160575/f35a5341-4f7a-494a-b7ea-af05e3bbd506">Streaming Toyota Auto Listings</a>
   - Constructed an event streaming pipeline with AWS resources such as Kinesis, Kinesis Firehose, and S3 with CI/CD from AWS CloudFormation; enabled real-time analytics with AWS QuickSight dashboard
 <br>
+<img width="524" alt="QuickSight Dashboard" src="https://github.com/joe-bryan/toyota-streaming-listings/assets/101160575/4eca4927-167d-43ea-962a-fcc55135b8e6">
+<img width="800" alt="AWS Kinesis streaming data pipeline" src="https://github.com/joe-bryan/toyota-streaming-listings/assets/101160575/5d5abb35-d593-4314-9036-cf633836fdc5">
 
 
 - <a href="https://github.com/joe-bryan/data-engineer-gtfs-bus">MBTA Delayed Subways Data Engineering</a> - Resources: Python, Terraform, Google Cloud Platform, Google Cloud Storage, BigQuery, Prefect, Streamlit
