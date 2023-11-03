@@ -9,7 +9,8 @@ This is a list of some my projects. Please keep check soon as I will be adding a
 <br>
 <img width="524" alt="QuickSight Dashboard" src="https://github.com/joe-bryan/toyota-streaming-listings/assets/101160575/4eca4927-167d-43ea-962a-fcc55135b8e6">
 <img width="800" alt="AWS Kinesis streaming data pipeline" src="https://github.com/joe-bryan/toyota-streaming-listings/assets/101160575/5d5abb35-d593-4314-9036-cf633836fdc5">
-
+<br>
+<br>
 
 - <a href="https://github.com/joe-bryan/data-engineer-gtfs-bus">MBTA Delayed Subways Data Engineering</a> - Resources: Python, Terraform, Google Cloud Platform, Google Cloud Storage, BigQuery, Prefect, Streamlit
   - Built a data pipe that ingests data from the Massachusets Bay Transportation Authority (MBTA) to display which subways are delayed and by how much.
