@@ -4,7 +4,7 @@ This is a list of some my projects. Please keep check soon as I will be adding a
 ---
 
 # Projects
-- <a href="https://github.com/joe-bryan/dbt-business-intelligence/">denormalized table with dbt Data Warehouse</a> - Resources: SQL, dbt, postgres
+- <a href="https://github.com/joe-bryan/dbt-business-intelligence/">Denormalized Table with dbt Data Warehouse</a> - Resources: SQL, dbt, postgres
   -  Data pipeline that transforms data in a postgres data warehouse using dbt. The goal of the pipeline is to create a denormalized table for the business intelligence team to create a dashboard to understand its customers better.
 <br>
 <br>
