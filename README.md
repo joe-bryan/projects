@@ -4,6 +4,16 @@ This is a list of some my projects. Please keep check soon as I will be adding a
 ---
 
 # Projects
+- <a href="https://github.com/joe-bryan/cdc-kafka-spark/">DVD Streaming Rentals</a> - Resources: Python, postgres, Debezium, Kafka, Spark, Airflow, S3, Databricks, RDS, Confluent Cloud, SQL
+  -  Data pipeline that captures row-level changes to the data in a Postgres database. From there, Apache Kafka receives the feed in real time. Apache Spark runs daily and batches the changes over to an S3 data lake. The goal of the pipeline is to have a secure location for data analysts and data scientists to get the data for drawing insights and running algorithms. The data consists of DVD rental transactions.
+
+  -  The diagrams show two ways to achieve the pipeline. The Databricks version uses managed versions of Postgres, Kafka, and Spark. The Docker version uses local resources instead. With the Docker way, ensure you have more than 4GB of RAM available as the number of containers eats your computer resources.
+<br>
+<br><img width="700" alt="Databricks pipeline" src="https://github.com/joe-bryan/cdc-kafka-spark/assets/101160575/c4a19ef8-41f8-4de9-acb8-d44929f05e83">
+<img width="700" alt="Docker pipeline" src="https://github.com/joe-bryan/cdc-kafka-spark/assets/101160575/e9c3ed1a-6e71-4c7e-8f3d-ac43e287033e">
+<br>
+<br>
+
 - <a href="https://github.com/joe-bryan/dbt-business-intelligence/">Denormalized Table with dbt Data Warehouse</a> - Resources: SQL, dbt, postgres
   -  Data pipeline that transforms data in a postgres data warehouse using dbt. The goal of the pipeline is to create a denormalized table for the business intelligence team to create a dashboard to understand its customers better.
 <br>
