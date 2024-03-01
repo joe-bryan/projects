@@ -32,7 +32,7 @@ This is a list of some of my projects. Please keep checking often as I will be a
 <br>
 
 - <a href="https://github.com/joe-bryan/data-engineer-gtfs-bus">MBTA Delayed Subways Data Engineering</a> - Resources: Python, Terraform, Google Cloud Platform, Google Cloud Storage, BigQuery, Prefect, Streamlit
-  - Built a data pipe that ingests data from the Massachusets Bay Transportation Authority (MBTA) to display which subways are delayed and by how much.
+  - Built a data pipeline that ingests data from the Massachusets Bay Transportation Authority (MBTA) to display which subways are delayed and by how much.
  <br>
  <img width="550" alt="Streamlit Screenshot" src="https://github.com/joe-bryan/projects/assets/101160575/e491ec2d-f3b6-43a6-b218-7a2c9f880bb9">
  <img width="550" alt="Data Pipeline Diagram" src="https://github.com/joe-bryan/projects/assets/101160575/17c510a1-4361-4802-9d5c-db584d963a83">
