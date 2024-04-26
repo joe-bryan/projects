@@ -4,6 +4,16 @@ This is a list of some of my projects. Please keep checking often as I will be a
 ---
 
 # Projects
+- <a href="https://github.com/joe-bryan/austin-real-estate-de-zoomcamp">Austin Real Estate Listings - DE Batch</a> - Resources: Terraform, Python, SQL, Mage, dbt, Google Cloud Storage, Google BigQuery, Tableau
+  -  This data engineering project aims to make the shopping experience a bit easier by providing visualizations such as what is the average price of listings in that zip code, how much more or less is a specific listing from the average of the zip code, and other lesser-known statistics. Link to the Tableau Dashboard: <a href="https://public.tableau.com/app/profile/joe.alanis/viz/AustinRealEstate_17130461839520/Listings?publish=yes">Austin Real Estate Listings
+
+<br>
+<br><img width="700" alt="Tech Stack" src="https://github.com/joe-bryan/austin-real-estate-de-zoomcamp/assets/101160575/3e60958d-523e-485c-ad41-57206b745f21">
+<img width="700" alt="dbt lineage" src="https://github.com/joe-bryan/austin-real-estate-de-zoomcamp/assets/101160575/c220b82b-8c89-40f2-9aec-321dd54dbb6d">
+<img width="700" alt="Tableau dashboard" src="https://github.com/joe-bryan/austin-real-estate-de-zoomcamp/assets/101160575/398a65c0-515b-4c95-9164-b4fa549aad12">
+<br>
+<br>
+
 - <a href="https://github.com/joe-bryan/cdc-kafka-spark/">DVD Streaming Rentals</a> - Resources: Python, postgres, Debezium, Kafka, Spark, Airflow, S3, Databricks, RDS, Confluent Cloud, SQL
   -  Data pipeline that captures row-level changes to the data in a Postgres database. From there, Apache Kafka receives the feed in real time. Apache Spark runs daily and batches the changes over to an S3 data lake. The goal of the pipeline is to have a secure location for data analysts and data scientists to get the data for drawing insights and running algorithms. The data consists of DVD rental transactions.
 
